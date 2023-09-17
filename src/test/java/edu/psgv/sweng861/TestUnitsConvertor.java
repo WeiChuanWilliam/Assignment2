@@ -93,7 +93,7 @@ public class TestUnitsConvertor {
 		
 		// First test: test meter to mile
 		// simulated input
-		String input1 = "11 cm";
+		String input1 = "15 cm";
 		
 		InputStream myIn1 = new ByteArrayInputStream(input1.getBytes());
 		System.setIn(myIn1);
